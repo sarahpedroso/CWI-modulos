@@ -1,0 +1,10 @@
+ex 1 
+
+var nomeDoFulano = "Sarah"
+var nomeDoBeltrano = "Sarah"
+if (nomeDoFulano == nomeDoBeltrano) {
+  console.log ("Nome igual")
+}
+else {
+  console.log ("Nome diferente")
+}
